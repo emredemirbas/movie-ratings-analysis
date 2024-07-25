@@ -1,7 +1,7 @@
 # Movie Ratings Analysis
 
 ## Overview
-This project investigates potential bias in Fandango's movie ratings, particularly in 2015. The analysis compares Fandango's ratings with those from other platforms such as IMDB, Metacritic, and Rotten Tomatoes. This project is based on the capstone project from the **Python for Machine Learning & Data Science Masterclass** course by Jose Portilla, provided by Pierian Data on Udemy.
+This project investigates potential bias in Fandango's movie ratings, particularly in 2015. The analysis compares Fandango's ratings with those from other platforms such as IMDB, Metacritic, and Rotten Tomatoes. This project is based on the capstone project from the **Python for Machine Learning & Data Science Masterclass** course by Pierian Data on Udemy.
 
 ## Goal
 The primary goal is to analyze the data using Python, pandas, and visualization libraries like matplotlib and seaborn to uncover any systematic bias in Fandango's ratings.
